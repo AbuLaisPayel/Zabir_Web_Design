@@ -568,7 +568,7 @@
     .card_team1{
         width: 390px;
         height: 390px;
-        background: url("/images/Header_images/profile1.jpg") no-repeat ;
+        background: url("images/Header_images/profile1.jpg") no-repeat ;
         background-attachment:scroll;
         background-size:390px ;        
         border: 1px solid rgb(236, 233, 233);
@@ -583,7 +583,7 @@
     .card_team2{
         width: 390px;
         height: 390px;
-        background: url("/images/team/team2.jpg") no-repeat ;
+        background: url("images/team/team2.jpg") no-repeat ;
         background-attachment:scroll;
         background-size:390px ;        
         border: 1px solid rgb(236, 233, 233);
@@ -598,7 +598,7 @@
     .card_team3{
         width: 390px;
         height: 390px;
-        background: url("/images/team/team3.jpg") no-repeat ;
+        background: url("images/team/team3.jpg") no-repeat ;
         background-attachment:scroll;
         background-size:390px ;        
         border: 1px solid rgb(236, 233, 233);
